@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.royal-register {
+    width: 400px;
+    background: rgb(0, 140, 255);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+
+.royal-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #dfdfdf;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+
+
+.royal-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.royal-register a {
+    color: white;
+    text-decoration: none;
+}
+
+.royal-register a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.botons-register {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/*Creado por itsRoyal#7294*/
